@@ -57,19 +57,25 @@ This project is licensed under the MIT License. See the  file for details.
 
 ## Contact
 
-For any questions or issues, please contact
-📧 [Aniket Saini](mailto:aniketsanikdl@gamil.com)
-[Linkdin](https://www.linkedin.com/in/saini-aniket) 
+For any questions or issues, please contact \n
+📧 [Aniket Saini](mailto:aniketsanikdl@gamil.com) \n 
+[Linkdin](https://www.linkedin.com/in/saini-aniket) \n
 X : https://x.com/Aniket_sadhiyan
 
 
 ## Acknowledgments
 
 - **Pygame**: For the game development library.
+- **pyinstaller** For make exe of `Snake.py`
+
+## Download 
+Download the game by installing the installer `SnakeByte.exe`
+-**Go to**
+    https://github.com/aniketsaini5/-SnakeByte/tree/main/Output/SnakeByte.exe
+
+<img width="1102" alt="image" src="https://github.com/user-attachments/assets/74232264-8e4a-40b1-b4d4-5758d52b6b5a">
+
+click on download button to download the game
 
 Enjoy playing the game!
-### Download 
-Download the game by installing the installer `SnakeByte.exe`
-
-https://github.com/aniketsaini5/-SnakeByte/tree/main/Output/SnakeByte.exe
 
