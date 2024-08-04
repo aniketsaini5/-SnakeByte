@@ -51,9 +51,6 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
 For significant changes or new features, please open an issue first to discuss the proposed changes.
 
-## License
-
-This project is licensed under the MIT License. See the  file for details.
 
 ## Contact
 
@@ -76,11 +73,27 @@ X : https://x.com/Aniket_sadhiyan
 Download the game by installing the installer `SnakeByte.exe`
 
 -**Go to**
-    https://github.com/aniketsaini5/-SnakeByte/tree/main/Output/SnakeByte.exe
+https://github.com/aniketsaini5/-SnakeByte/
 
-<img width="1102" alt="image" src="https://github.com/user-attachments/assets/74232264-8e4a-40b1-b4d4-5758d52b6b5a">
+-**Click on Release**
+![image](https://github.com/user-attachments/assets/3b70082d-21d0-4413-aab5-782a530a9b96)
 
--*Click on download button to download the game*
+*After that*
+![Screenshot 2024-08-05 005840](https://github.com/user-attachments/assets/4305d391-94d4-4093-a0dc-d7ed52369aba)
+
+### You got the exe file of the game
+
+-**Run the `SnakeByte.exe`**
+
+*if you got this*
+![Screenshot 2024-08-05 005626](https://github.com/user-attachments/assets/3c8960c6-56eb-4da4-8e10-29c205d6eb55)
+
+just click on more info you got `Run anyway` option click on `Run anyway` 
+![Screenshot 2024-08-05 005626](https://github.com/user-attachments/assets/b9dfae56-b548-4f2b-8628-b9be8932c6ee)
+
+*After that you can install the game and Play*
+![Screenshot 2024-08-05 005659](https://github.com/user-attachments/assets/28b621f2-1d67-4227-9931-1b3f858d18cb)
+ 
 
 Enjoy playing the game!
 
