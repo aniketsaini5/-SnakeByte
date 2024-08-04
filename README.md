@@ -89,7 +89,8 @@ https://github.com/aniketsaini5/-SnakeByte/
 ![Screenshot 2024-08-05 005626](https://github.com/user-attachments/assets/3c8960c6-56eb-4da4-8e10-29c205d6eb55)
 
 just click on more info you got `Run anyway` option click on `Run anyway` 
-![Screenshot 2024-08-05 005626](https://github.com/user-attachments/assets/b9dfae56-b548-4f2b-8628-b9be8932c6ee)
+![Screenshot 2024-08-05 005636](https://github.com/user-attachments/assets/13e4eb3b-1e57-4f59-8e95-30665e2c19cc)
+
 
 *After that you can install the game and Play*
 ![Screenshot 2024-08-05 005659](https://github.com/user-attachments/assets/28b621f2-1d67-4227-9931-1b3f858d18cb)
