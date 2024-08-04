@@ -68,5 +68,8 @@ X : https://x.com/Aniket_sadhiyan
 - **Pygame**: For the game development library.
 
 Enjoy playing the game!
-### Download : 
+### Download 
+Download the game by installing the installer `SnakeByte.exe`
+
+https://github.com/aniketsaini5/-SnakeByte/tree/main/Output/SnakeByte.exe
 
